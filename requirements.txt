@@ -1,3 +1,5 @@
+--upgrade pip
+rich==13.4.0
 streamlit==1.42.2
 opencv-python==4.10.0.84
 deepface==0.0.90
